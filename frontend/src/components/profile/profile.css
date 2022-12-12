@@ -1,0 +1,16 @@
+.height {
+  height: 100vh;
+}
+
+.padding {
+  padding: 10px 10px 10px 10px;
+}
+
+.profile-avatar {
+  height: 150px;
+  width: 150px;
+}
+
+Form.Label {
+  text-align: left;
+}
