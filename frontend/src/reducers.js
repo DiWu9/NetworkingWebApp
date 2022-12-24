@@ -18,7 +18,7 @@ import {
 const LANDING = "LANDING";
 const MAIN = "MAIN";
 const PROFILE = "PROFILE";
-const url = "https://damp-dawn-21130.herokuapp.com";
+const url = "http://localhost:3000";
 
 const initialState = {
   userName: "",

@@ -8,7 +8,7 @@ import ProfileAvatar from "./ProfileAvatar";
 import { handleLoadProfile } from "../../actions";
 import "./profile.css";
 
-const url = "https://damp-dawn-21130.herokuapp.com";
+const url = "http://localhost:3000";
 
 function MainPageButton() {
   let navigate = useNavigate();

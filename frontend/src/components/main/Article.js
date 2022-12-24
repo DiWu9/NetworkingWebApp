@@ -5,7 +5,7 @@ import ArticleComment from "./ArticleComment";
 import { handleFetchFeed } from "../../actions";
 import "./main.css";
 
-const url = "https://damp-dawn-21130.herokuapp.com";
+const url = "http://localhost:3000";
 
 function Article({ article, img, id, handleFetchFeed }) {
 

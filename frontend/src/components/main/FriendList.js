@@ -4,7 +4,7 @@ import { handleFollow, handleUnfollow, handleFetchFeed } from "../../actions";
 import Button from "react-bootstrap/Button";
 import "./main.css";
 
-const url = "https://damp-dawn-21130.herokuapp.com";
+const url = "http://localhost:3000";
 
 function FriendList({ friendList, handleFollow, handleUnfollow, handleFetchFeed }) {
   

@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { handleRegister } from "../../actions";
 import "./landing.css";
 
-const url = "https://damp-dawn-21130.herokuapp.com";
+const url = "http://localhost:3000";
 
 function RegisterForm({ handleRegister }) {
   const navigate = useNavigate();

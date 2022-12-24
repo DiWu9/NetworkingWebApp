@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const cors = require('cors');
-const corsOptions = {origin: 'https://dw58-finalweb.surge.sh', credentials: true};
+const corsOptions = {origin: 'http://localhost:4000', credentials: true};
 
 const articles = require('./src/articles.js');
 const auth = require('./src/auth.js');

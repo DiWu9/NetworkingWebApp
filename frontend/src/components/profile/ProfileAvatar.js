@@ -2,7 +2,7 @@ import React from "react";
 import { connect } from "react-redux";
 import "./profile.css";
 
-const url = "https://damp-dawn-21130.herokuapp.com";
+const url = "http://localhost:3000";
 
 function ProfileAvatar({ avatar }) {
 

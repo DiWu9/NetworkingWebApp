@@ -10,7 +10,7 @@ import LogoutButton from "./LogoutButton";
 import { handleLoadMain } from "../../actions";
 import "./main.css";
 
-const url = "https://damp-dawn-21130.herokuapp.com";
+const url = "http://localhost:3000";
 
 class Main extends React.Component {
 
