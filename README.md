@@ -13,6 +13,15 @@ A social networking web app with username password authentication and third part
 - User profile page:
   - User info (display & edit)
   - User avatar (display & edit)
+
+## Tools, Frameworks, Database
+- React
+- Redux
+- Bootstrap
+- Node.js
+- Express
+- Passport.js
+- MongoDB
   
 ## Set up
 Need to install [Node.js](https://nodejs.org/en/download/)
