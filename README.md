@@ -13,6 +13,9 @@ A social networking web app with username password authentication and third part
 - User profile page:
   - User info (display & edit)
   - User avatar (display & edit)
+  
+## Set up
+Need to install [Node.js](https://nodejs.org/en/download/)
 
 ## Starting the server
 
